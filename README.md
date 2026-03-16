@@ -1,10 +1,9 @@
 # python_tip_calculator
 A simple Python Tip Calculator that calculates how much each person should pay when splitting a bill including a tip.
-
 This project was to practice basic Python programming, including user input, calculations, and output formatting.
 
 
-How the Program Works:
+**How the Program Works:**
 
 The program asks the user three questions:
 1. The total bill amount
